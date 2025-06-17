@@ -1,7 +1,3 @@
----
-layout: default
-title: ""
----
 
 ![アイキャッチ](./images/00.jpg)
 # GitHub Pages入門：5分で始めるWebサイト公開
