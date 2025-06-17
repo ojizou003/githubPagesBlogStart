@@ -1,0 +1,4 @@
+title: ""  # 空にするか、好きなタイトルを設定
+description: ""
+show_downloads: false
+theme: jekyll-theme-minimal  # またはお好みのテーマ
