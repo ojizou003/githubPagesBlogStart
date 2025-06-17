@@ -1,3 +1,8 @@
+---
+layout: default
+title: ""
+---
+
 ![アイキャッチ](./images/00.jpg)
 # GitHub Pages入門：5分で始めるWebサイト公開
 
@@ -107,8 +112,8 @@ GitHub Pagesで公開する場合は、**Public**を選択する必要があり�
 
 リポジトリの「Settings」タブをクリックし、左側のメニューから「Pages」を選択します。
 
-*   **Source:** 「Branch」を選択し、公開するブランチを選択します。（通常は`main`ブランチ）
-*   **Branch:** 公開するブランチを選択します。（通常は`main`ブランチ）
+*   **Source:** 「GitHub Actions」または「Deploy from a branch」を選択します。
+*   **Branch:** 「Deploy from a branch」を選択した場合、公開するブランチを選択します。（通常は`main`ブランチ）
 *   **/(root)** を選択されていることを確認します。
 
 設定を保存すると、GitHub Pagesが有効化され、数分後にWebサイトが公開されます。WebサイトのURLは、`username.github.io`または`username.github.io/repository_name`となります。
